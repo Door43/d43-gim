@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[gim:home|Door43 (gim)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-gim|d43-gim repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-gim/archive/master.zip|d43-gim.zip]]
+
+**Recent Changes**
+{{changes>ns = gim}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/gim|Ethnologue data]]
+
